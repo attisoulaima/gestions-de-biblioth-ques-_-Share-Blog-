@@ -1,15 +1,10 @@
-<!--A Design by W3layouts
-Author: W3layout
-Author URL: http://w3layouts.com
-License: Creative Commons Attribution 3.0 Unported
-License URL: http://creativecommons.org/licenses/by/3.0/
--->
 <!DOCTYPE HTML>
 <head>
 <title>Free Share_Blog the Blog Website Template | Home :: w3layouts</title>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-<link href="css/style.css" rel="stylesheet" type="text/css" media="all"/>
+<link href="<?php bloginfo('template_directory'); ?>/css/style.css"
+rel="stylesheet">
 <link href='//fonts.googleapis.com/css?family=Monda' rel='stylesheet' type='text/css'>
 <link href='//fonts.googleapis.com/css?family=Audiowide' rel='stylesheet' type='text/css'>
 <script src="js/jquery-1.11.1.min.js"></script>
@@ -20,8 +15,8 @@ License URL: http://creativecommons.org/licenses/by/3.0/
     <div class="wrap">
 	  <div class="header-top-left">
 			<div class="logo">
-			     <a href="index.html"><h1>SHARE</h1>
-			     	<h2>The Blog</h2>
+			     <a href="index.html"><h1>bibliotheque</h1>
+			     	<h2>bibliotheque </h2>
 			     </a>
 			</div>
 		<div class="menu">
@@ -57,7 +52,6 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 	  		</div>
 		</div>
 </div>
-<!--------------------- Main Content ------------------->
 <div class="wrap">
 	<div class="main">
 		<div class="content">
@@ -272,7 +266,6 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 <div class="clear"></div>
 </div>
 </div>
-<!--------------------- End Main Content ----------------------------------->
 <div class="footer">
    	    <div class="footer_grides"> 
    	    	 <div class="wrap">  	    	
@@ -350,4 +343,12 @@ License URL: http://creativecommons.org/licenses/by/3.0/
   </div>
 </body>
 </html>
+
+	
+Cliquez ici pour répondre au message ou le transférer
+0,19 Go (1 %) utilisés sur 15 Go
+Gérer
+Conditions d'utilisation - Confidentialité
+Dernière activité sur le compte : Il y a 17 minutes
+Détails
 
