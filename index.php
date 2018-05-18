@@ -21,10 +21,10 @@ rel="stylesheet">
 			</div>
 		<div class="menu">
 		     <ul class="menu bounce">
-		       <li class="active"><a href="index.html" class="active">Home</a></li>
-		       <li><a href="single.html">About</a></li>
-		       <li><a href="single.html">Support</a></li>
-		       <li><a href="contact.html">Contact</a></li>
+		       <li class="active"><a href="index.html" class="active">LIVRE</a></li>
+		       <li><a href="single.html">MAGASINE</a></li>
+		       <li><a href="single.html">CD</a></li>
+		       <li><a href="contact.html">CONTACT</a></li>
 		     </ul>
 	   </div>
 	 <div class="clear"></div>
@@ -56,8 +56,8 @@ rel="stylesheet">
 	<div class="main">
 		<div class="content">
 			<div class="box1">
-   				 <h3><a href="single.html">Making it look like readable English. Many desktop packages and web page</a></h3>
-    				<span>By Kieth Deviec- 2 hours ago<span class="comments">8 Comments</span></span> 
+   				 <h3><a href="single.html">LES LIVRES </a></h3>
+    				<span>les opinions <span class="comments">8 Comments</span></span> 
 			   <div class="view">
 					<div class="view-back">
 						<span class="views" title="views">(566)</span>
@@ -68,13 +68,13 @@ rel="stylesheet">
 					<a href="single.html"><img src="images/img1.jpg"></a>
 				</div>
 				<div class="data">
-				    <p>Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editorsLorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors</p>
+				    <p>Je voudrais vous dire quelques mots d’ouverture qui ne sont pas à proprement parler une introduction parce que je risquerais d’empiéter sur la conférence qu’Anne-Marie Bertrand va faire dans quelques instants. Ces mots, je les énonce du point de vue du ministère français chargé de la Culture et, plus particulièrement, d’une direction chargée des questions touchant au livre sous ses différents aspects, depuis la création jusqu’aux aspects économiques, marchands et aux différentes formes de diffusion — dont cette forme de diffusion privilégiée que constituent les bibliothèques. Et je voudrais remercier la Bibliothèque publique d’information d’avoir pris l’initiative de cette rencontre qui s’inscrit dans un ensemble plus général. C’est cet aspect plus général que je voudrais commenter ici et donc, d’une certaine manière, je n’aborderai pas directement le sujet d’aujourd’hui.</p>
 				    <span><a href="single.html">Continue reading >>></a></span>
 				</div>
 			<div class="clear"></div>
 		</div>
 			<div class="box1">
-			   	 <h3><a href="single.html">Making it look like readable English. Many desktop packages and web page</a></h3>
+			   	 <h3><a href="single.html">MAGASINE</a></h3>
 			    <span>By Fred G.Meyer- 10 hours ago<span class="comments">5 Comments</span></span>
 			 <div class="view">
 					<div class="view-back">
@@ -86,7 +86,7 @@ rel="stylesheet">
 					<a href="single.html"><img src="images/img2.jpg"></a>
 				</div>
 				<div class="data">
-				    <p>Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editorsLorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors</p>
+				    <p> sarraaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaahh</p>
 				    <span><a href="single.html">Continue reading >>></a></span>
 				</div>
 			<div class="clear"></div>
@@ -345,10 +345,4 @@ rel="stylesheet">
 </html>
 
 	
-Cliquez ici pour répondre au message ou le transférer
-0,19 Go (1 %) utilisés sur 15 Go
-Gérer
-Conditions d'utilisation - Confidentialité
-Dernière activité sur le compte : Il y a 17 minutes
-Détails
 

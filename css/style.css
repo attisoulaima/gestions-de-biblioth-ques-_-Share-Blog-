@@ -1694,6 +1694,7 @@ a#cancel-comment-reply-link{
  		padding:1.5% 0;
  	}
  	.view {
+		
  		float:inherit;
 		width:85%;
 		height:300px;
