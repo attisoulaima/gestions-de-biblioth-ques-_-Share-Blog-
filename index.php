@@ -15,14 +15,14 @@ rel="stylesheet">
     <div class="wrap">
 	  <div class="header-top-left">
 			<div class="logo">
-			     <a href="index.html"><h1>bibliotheque</h1>
-			     	<h2>bibliotheque </h2>
+			     <a href="index.html"><h1>BIBLIOTHEQUE</h1>
+			     	<h2>BibLIoTHèQuE </h2>
 			     </a>
 			</div>
 		<div class="menu">
 		     <ul class="menu bounce">
-		       <li class="active"><a href="index.html" class="active">LIVRE</a></li>
-		       <li><a href="single.html">MAGASINE</a></li>
+		       <li class="active"><a href="index.html" class="active">LIVRES</a></li>
+		       <li><a href="single.html">MAGASINES</a></li>
 		       <li><a href="single.html">CD</a></li>
 		       <li><a href="contact.html">CONTACT</a></li>
 		     </ul>
@@ -57,51 +57,49 @@ rel="stylesheet">
 		<div class="content">
 			<div class="box1">
    				 <h3><a href="single.html">LES LIVRES </a></h3>
-    				<span>les opinions <span class="comments">8 Comments</span></span> 
-			   <div class="view">
-					<div class="view-back">
-						<span class="views" title="views">(566)</span>
-						<span class="likes" title="likes">(124)</span>
-						<span class="link" title="link">(24)</span>
+	</li></ul><div class="alaune-description"><div class="fiche lmarge livre2"><div class="couv"><a href="/Informatique/Livre/cybersecurite-9782212568936"><img src="https://static.eyrolles.com/img/2/2/1/2/5/6/8/9/9782212568936_h130.png" alt="Cybersécurité" title="Cybersécurité - 20,00 €" class="livre" /></a><ul class="price roundCorner"><li class="prixpublic"><span>35,00 €</span></li></ul><p class="addcart"><input id="qte9782212568936" type="hidden" name="qte[9782212568936]" value="1"/><button id="ean13-9782212568936" data-action="add-to-cart" class="bouton-panier" popupUrl="/Accueil/Panier/Ajouter/Popup" data-url="/Accueil/Panier/Ajouter/9782212568936" title="Cybersécurité">
+
 						<a href="single.html"> </a>
-					</div>
-					<a href="single.html"><img src="images/img1.jpg"></a>
-				</div>
-				<div class="data">
+ 
+			
 				    <p>Je voudrais vous dire quelques mots d’ouverture qui ne sont pas à proprement parler une introduction parce que je risquerais d’empiéter sur la conférence qu’Anne-Marie Bertrand va faire dans quelques instants. Ces mots, je les énonce du point de vue du ministère français chargé de la Culture et, plus particulièrement, d’une direction chargée des questions touchant au livre sous ses différents aspects, depuis la création jusqu’aux aspects économiques, marchands et aux différentes formes de diffusion — dont cette forme de diffusion privilégiée que constituent les bibliothèques. Et je voudrais remercier la Bibliothèque publique d’information d’avoir pris l’initiative de cette rencontre qui s’inscrit dans un ensemble plus général. C’est cet aspect plus général que je voudrais commenter ici et donc, d’une certaine manière, je n’aborderai pas directement le sujet d’aujourd’hui.</p>
-				    <span><a href="single.html">Continue reading >>></a></span>
-				</div>
+				    
+					
+					
+					
+					
+					
+					
+					
+					<span><a href="single.html">Continue reading >>></a></span>
+				
 			<div class="clear"></div>
 		</div>
 			<div class="box1">
-			   	 <h3><a href="single.html">MAGASINE</a></h3>
-			    <span>By Fred G.Meyer- 10 hours ago<span class="comments">5 Comments</span></span>
-			 <div class="view">
-					<div class="view-back">
-						<span class="views" title="views">(566)</span>
-						<span class="likes" title="likes">(124)</span>
-						<span class="link" title="link">(24)</span>
+			
+			
+			
+			   	 <h3><a href="single.html">MAGASINES</a></h3>
+			    	</li></ul><div class="alaune-description"><div class="fiche lmarge livre2"><div class="couv"><a href="/Informatique/Livre/cybersecurite-9782212568936"><img src="C:\xampp\htdocs\wordpress\wp-content\themes\gestions-de-biblioth-ques-_-Share-Blog-\images\livre.png" alt="Cybersécurité" title="Cybersécurité - 35,00 €" class="livre" /></a><ul class="price roundCorner"><li class="prixpublic"><span>35,00 €</span></li></ul><p class="addcart"><input id="qte9782212568936" type="hidden" name="qte[9782212568936]" value="1"/><button id="ean13-9782212568936" data-action="add-to-cart" class="bouton-panier" popupUrl="/Accueil/Panier/Ajouter/Popup" data-url="/Accueil/Panier/Ajouter/9782212568936" title="Cybersécurité">
+
 						<a href="single.html"> </a>
-					</div>
-					<a href="single.html"><img src="images/img2.jpg"></a>
-				</div>
+					
 				<div class="data">
-				    <p> sarraaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaahh</p>
+				    <p> souuuuulaimmmmaaaa</p>
 				    <span><a href="single.html">Continue reading >>></a></span>
 				</div>
 			<div class="clear"></div>
 	     </div>
 				<div class="box1">
-				    <h3><a href="single.html">Making it look like readable English. Many desktop packages and web page</a></h3>
-				    <span>By R.J Cliton - 1 day ago<span class="comments">12 Comments</span></span>
-				 <div class="view">
-					<div class="view-back">
-						<span class="views" title="views">(566)</span>
-						<span class="likes" title="likes">(124)</span>
-						<span class="link" title="link">(24)</span>
+				    <h3><a href="single.html">CD</a></h3>
+				 <div class="livre">
+					<div class="livre-back">
+						<span class="livre" title="livre"></span>
+						<span class="likes" title="likes">(</span>
+						<span class="link" title="link"></span>
 						<a href="single.html"> </a>
 					</div>
-					<a href="single.html"><img src="images/img3.jpg"></a>
+					<a href="single.html"><img src="images/livre.jpg"></a>
 				</div>
 					<div class="data">
 					    <p>Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editorsLorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors</p>
