@@ -202,7 +202,7 @@ ul.menu.bounce li:hover,ul.menu.bounce li.active {
   -webkit-animation-duration: 0.5s;
   -webkit-animation-timing-function: ease-in-out;
 */
-  background:url(../images/menu-arrow.png) no-repeat -3px;
+  background:url(../images/livre.jpg) no-repeat -3px;
 }
 ul.menu a {
   width: 200px;

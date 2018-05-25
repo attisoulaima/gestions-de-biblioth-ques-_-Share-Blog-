@@ -72,9 +72,9 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 						    	<p>500 Lorem Ipsum Dolor Sit,</p>
 						   		<p>22-56-2-9 Sit Amet, Lorem,</p>
 						   		<p>USA</p>
-				   		<p>Phone:(00) 222 666 444</p>
-				   		<p>Fax: (000) 000 00 00 0</p>
-				 	 	<p>Email: <span><a href="mailto:example@email.com">mail@example.com</a></span></p>
+				   		<p>Phone:(216) 78 78 78</p>
+				   		<p>Fax: (216) 71 71 71 </p>
+				 	 	<p>Email: <span><a href="mailto:bibliotheque@gmail.com">mail@example.com</a></span></p>
 				   		<p>Follow on: <span><a href="#">Facebook</a></span>, <span><a href="#">Twitter</a></span></p>
 				   </div>
 				</div>				

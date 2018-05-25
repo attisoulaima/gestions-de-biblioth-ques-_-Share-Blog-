@@ -1,5 +1,9 @@
 <!DOCTYPE HTML>
+
 <head>
+
+
+
 <title>Free Share_Blog the Blog Website Template | Home :: w3layouts</title>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
@@ -57,7 +61,12 @@ rel="stylesheet">
 		<div class="content">
 			<div class="box1">
    				 <h3><a href="single.html">LES LIVRES </a></h3>
-	</li></ul><div class="alaune-description"><div class="fiche lmarge livre2"><div class="couv"><a href="/Informatique/Livre/cybersecurite-9782212568936"><img src="https://static.eyrolles.com/img/2/2/1/2/5/6/8/9/9782212568936_h130.png" alt="Cybersécurité" title="Cybersécurité - 20,00 €" class="livre" /></a><ul class="price roundCorner"><li class="prixpublic"><span>35,00 €</span></li></ul><p class="addcart"><input id="qte9782212568936" type="hidden" name="qte[9782212568936]" value="1"/><button id="ean13-9782212568936" data-action="add-to-cart" class="bouton-panier" popupUrl="/Accueil/Panier/Ajouter/Popup" data-url="/Accueil/Panier/Ajouter/9782212568936" title="Cybersécurité">
+	</li></ul><div class="alaune-description"><div class="fiche lmarge livre2"><div class="couv"><a href="/Informatique/Livre/cybersecurite-9782212568936">
+	<img src="https://static.eyrolles.com/img/2/2/1/2/5/6/8/9/9782212568936_h130.png" alt="liVRe" title="liVRe - 20,00 €" class="livre" /></a><ul class="price roundCorner">
+	<li class="prixpublic"><span>35,00 €</span>
+	</li></ul><p class="addcart">
+	<input id="qte9782212568936" type="hidden" name="qte[9782212568936]" value="1"/>
+	<button id="ean13-9782212568936" data-action="add-to-cart" class="bouton-panier" popupUrl="/Accueil/Panier/Ajouter/Popup" data-url="/Accueil/Panier/Ajouter/9782212568936" title="Cybersécurité">
 
 						<a href="single.html"> </a>
  
@@ -80,13 +89,18 @@ rel="stylesheet">
 			
 			
 			   	 <h3><a href="single.html">MAGASINES</a></h3>
-			    	</li></ul><div class="alaune-description"><div class="fiche lmarge livre2"><div class="couv"><a href="/Informatique/Livre/cybersecurite-9782212568936"><img src="C:\xampp\htdocs\wordpress\wp-content\themes\gestions-de-biblioth-ques-_-Share-Blog-\images\livre.png" alt="Cybersécurité" title="Cybersécurité - 35,00 €" class="livre" /></a><ul class="price roundCorner"><li class="prixpublic"><span>35,00 €</span></li></ul><p class="addcart"><input id="qte9782212568936" type="hidden" name="qte[9782212568936]" value="1"/><button id="ean13-9782212568936" data-action="add-to-cart" class="bouton-panier" popupUrl="/Accueil/Panier/Ajouter/Popup" data-url="/Accueil/Panier/Ajouter/9782212568936" title="Cybersécurité">
-
+				 
+				 <img src="livre.gif">
+				 
+				 
 						<a href="single.html"> </a>
 					
 				<div class="data">
-				    <p> souuuuulaimmmmaaaa</p>
+				    <p> information sur maGasines </p>
 				    <span><a href="single.html">Continue reading >>></a></span>
+												<img src="C:\xampp\htdocs\wordpress\wp-content\themes\gestions-de-biblioth-ques-_-Share-Blog-\images\livre.jpg" />
+											
+
 				</div>
 			<div class="clear"></div>
 	     </div>
@@ -95,11 +109,14 @@ rel="stylesheet">
 				 <div class="livre">
 					<div class="livre-back">
 						<span class="livre" title="livre"></span>
-						<span class="likes" title="likes">(</span>
+						<span class="likes" title="likes"></span>
 						<span class="link" title="link"></span>
 						<a href="single.html"> </a>
 					</div>
-					<a href="single.html"><img src="images/livre.jpg"></a>
+					<a href="single.html">
+					
+				
+					<img src="/images/agenda/affiche_200px_T&#039;choupi_05-2018.jpg">
 				</div>
 					<div class="data">
 					    <p>Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editorsLorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors</p>
@@ -339,8 +356,26 @@ rel="stylesheet">
 				<p> © 2013 Share_Blog. All Rights Reserved | Design by  <a href="http://w3layouts.com">W3Layouts</a> </p>
 		   </div>	 
   </div>
-</body>
-</html>
+  
+  
+  
+  </div> <!-- /.container -->
+ <footer class="blog-footer">
+<p>Blog template built for <a
+href="http://getbootstrap.com">Bootstrap</a> by <a
+href="https://twitter.com/mdo">@mdo</a>.</p>
+<p> <a href="#">Back to top</a> </p>
+ </footer>
+ <script
+src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.mi
+n.js"></script>
+<script
+src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.
+min.js"></script> <?php wp_footer(); ?>
+</body> </html> 
+
+
+
 
 	
 
